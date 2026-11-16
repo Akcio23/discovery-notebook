@@ -1,0 +1,55 @@
+@import "tailwindcss";
+
+:root {
+  /* Escala Monocromática Polar (Dark Mode Nativo) */
+  --color-polar-950: #090909;
+  --color-polar-900: #111111;
+  --color-polar-800: #181818;
+  --color-polar-700: #212121;
+  --color-polar-600: #292929;
+  --color-polar-500: #757575;
+  --color-polar-400: #858585;
+  --color-polar-300: #9e9e9e;
+  --color-polar-100: #c9c9c9;
+  --color-polar-50:  #d9d9d9;
+  --color-white:     #ffffff;
+
+  /* Cores Semânticas de Apoio (Badges e Alertas) */
+  --color-blue-500:    #3080ff;
+  --color-emerald-400: #00d294;
+  --color-amber-500:   #f99c00;
+  --color-red-500:     #fb2c36;
+}
+
+@layer base {
+  html {
+    font-family: "Inter", -apple-system, BlinkMacSystemFont, sans-serif;
+    background-color: var(--color-polar-950);
+    color: var(--color-polar-50);
+    scroll-behavior: smooth;
+  }
+
+  .font-mono {
+    font-family: "Geist Mono", ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+    font-variant-numeric: tabular-nums;
+  }
+}
+
+/* Scrollbar sutil estilo Polar */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #090909;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #212121;
+  border-radius: 9999px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #292929;
+}

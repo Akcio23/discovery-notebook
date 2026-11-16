@@ -1,0 +1,412 @@
+[
+  {
+    "id": "lenovo-legion-slim-5",
+    "rank": 1,
+    "name": "Lenovo Legion Slim 5 16",
+    "code": "83D6",
+    "badge": "🥇 1º Lugar Geral",
+    "selectionReason": "Conjunto mais completo e equilibrado para criadores com tela 16:10 WQXGA 100% sRGB e refrigeração silenciosa.",
+    "specs": {
+      "cpu": "Intel Core i7-13700H (13ª Geração)",
+      "gpu": "RTX 4060 8 GB GDDR6 (140W)",
+      "gpuVramGb": 8,
+      "gpuTgpWatts": 140,
+      "ramFactoryGb": 16,
+      "ramDetails": "16 GB DDR5 (Expansível até 64 GB, 2 slots)",
+      "ramExpandable": true,
+      "ramMaxGb": 64,
+      "storage": "1 TB NVMe PCIe Gen4",
+      "storageMinGb": 1000,
+      "display": "16\" WQXGA (2560x1600), 165Hz, 100% sRGB, 350 nits",
+      "displayResolutionClass": "QHD+ (16:10)",
+      "displayColorSpace": "100% sRGB",
+      "displayHighFidelity": true,
+      "weightKg": 2.40
+    },
+    "pricing": {
+      "minBrl": 8600,
+      "maxBrl": 9200,
+      "upgradeCostEstimateBrl": 375,
+      "minWith32GbBrl": 8950,
+      "maxWith32GbBrl": 9575,
+      "exceeds10kLimit": false,
+      "stores": ["Lenovo Store", "Amazon BR"]
+    },
+    "variantWarning": null,
+    "analysis": {
+      "videoEditing": "Excelente tela 16:10 QHD com 100% sRGB e área vertical extra para timelines de 4K no Premiere e DaVinci; QuickSync da Intel garante decodificação fluida de codecs H.264/H.265.",
+      "modeling3d": "RTX 4060 a 140W com 8 GB VRAM entrega renderização veloz em Cycles (OptiX) no Blender; sistema de refrigeração Legion Coldfront 5.0 sustenta renders longos sem throttling.",
+      "weakness": "Vem com 16 GB de fábrica; exige upgrade com mais um módulo de 16 GB DDR5 (orçamento total fica em aprox. R$ 9.100)."
+    },
+    "profileTags": ["upgrade-friendly", "high-res-screen", "full-tgp-4060", "1tb-factory", "balanced-weight"]
+  },
+  {
+    "id": "acer-predator-helios-neo-16",
+    "rank": 2,
+    "name": "Acer Predator Helios Neo 16",
+    "code": "PHN16-71",
+    "badge": "Performance Térmica & Brilho 400 nits",
+    "selectionReason": "CPU HX de 14 núcleos com metal líquido, RTX 4060 a 140W e tela de 400 nits 100% sRGB excelente para color grading.",
+    "specs": {
+      "cpu": "Intel Core i7-13650HX (13ª Geração HX)",
+      "gpu": "RTX 4060 8 GB GDDR6 (140W)",
+      "gpuVramGb": 8,
+      "gpuTgpWatts": 140,
+      "ramFactoryGb": 16,
+      "ramDetails": "16 GB DDR5 (Expansível até 64 GB, 2 slots)",
+      "ramExpandable": true,
+      "ramMaxGb": 64,
+      "storage": "512 GB / 1 TB NVMe Gen4",
+      "storageMinGb": 512,
+      "display": "16\" WUXGA/WQXGA, 165Hz, 100% sRGB, 400 nits",
+      "displayResolutionClass": "WUXGA / WQXGA (16:10)",
+      "displayColorSpace": "100% sRGB",
+      "displayHighFidelity": true,
+      "weightKg": 2.60
+    },
+    "pricing": {
+      "minBrl": 8299,
+      "maxBrl": 8899,
+      "upgradeCostEstimateBrl": 375,
+      "minWith32GbBrl": 8674,
+      "maxWith32GbBrl": 9274,
+      "exceeds10kLimit": false,
+      "stores": ["Mercado Livre Oficial Acer", "Carrefour"]
+    },
+    "variantWarning": "Atenção ao código da versão no varejo: este modelo é comercializado em variantes com SSD de 512 GB ou 1 TB NVMe Gen4 e painel 16\" WUXGA (1920x1200) ou WQXGA (2560x1600). Ambas possuem 100% sRGB e 400 nits.",
+    "analysis": {
+      "videoEditing": "CPU i7-13650HX com 14 núcleos proporciona altíssimo poder de renderização de CPU; tela brilhante de 400 nits com 100% sRGB é ótima para color grading.",
+      "modeling3d": "TGP máximo na RTX 4060 com metal líquido na CPU, mantendo clocks estáveis em simulações de física e renders no Blender/Maya.",
+      "weakness": "É pesado (2,6 kg + fonte de 330W massiva) e as ventoinhas em carga máxima no modo Turbo são bastante ruidosas."
+    },
+    "profileTags": ["upgrade-friendly", "high-res-screen", "full-tgp-4060", "heavy-thermal"]
+  },
+  {
+    "id": "lenovo-loq-15irx9",
+    "rank": 3,
+    "name": "Lenovo LOQ 15IRX9",
+    "code": "83KH0002BR",
+    "badge": "3º Lugar Geral · Força Bruta CPU",
+    "selectionReason": "Equipado com o Core i7-14700HX de 20 núcleos e 28 threads — o processador mais forte da lista para exportações brutas e After Effects/Fusion.",
+    "specs": {
+      "cpu": "Intel Core i7-14700HX (14ª Geração HX - 20 núcleos)",
+      "gpu": "RTX 4060 8 GB GDDR6 (115W)",
+      "gpuVramGb": 8,
+      "gpuTgpWatts": 115,
+      "ramFactoryGb": 16,
+      "ramDetails": "16 GB DDR5 (Expansível até 32 GB oficial / 64 GB)",
+      "ramExpandable": true,
+      "ramMaxGb": 64,
+      "storage": "512 GB NVMe Gen4",
+      "storageMinGb": 512,
+      "display": "15,6\" FHD (1920x1080), 144Hz, 100% sRGB, 300 nits",
+      "displayResolutionClass": "FHD (16:9)",
+      "displayColorSpace": "100% sRGB",
+      "displayHighFidelity": true,
+      "weightKg": 2.38
+    },
+    "pricing": {
+      "minBrl": 8560,
+      "maxBrl": 9240,
+      "upgradeCostEstimateBrl": 375,
+      "minWith32GbBrl": 8935,
+      "maxWith32GbBrl": 9615,
+      "exceeds10kLimit": false,
+      "stores": ["Lenovo Oficial", "Magalu", "KaBuM!"]
+    },
+    "variantWarning": null,
+    "analysis": {
+      "videoEditing": "Equipado com o Core i7-14700HX (20 núcleos / 28 threads), é o processador mais forte desta lista para exportações brutas e plugins pesados (After Effects/Fusion).",
+      "modeling3d": "Desempenho excepcional de CPU em modelagem com alta contagem de polígonos, aliado à RTX 4060 de 115W.",
+      "weakness": "Painel 1080p tradicional (embora 100% sRGB, tem menos resolução que os 1600p); bateria de 60 Wh entrega autonomia curta fora da tomada."
+    },
+    "profileTags": ["upgrade-friendly", "cpu-champion", "100-srgb-fhd", "balanced-weight"]
+  },
+  {
+    "id": "avell-ion-a70",
+    "rank": 4,
+    "name": "Avell ION A70 ION / A70i",
+    "code": "A70 ION / A70i",
+    "badge": "2º Lugar Geral · 32 GB de Fábrica",
+    "selectionReason": "Melhor opção 'chave na mão': já sai de fábrica com 32 GB DDR5, 1 TB SSD, tela WQXGA 16:10 100% sRGB e chassi leve de 1,95 kg.",
+    "specs": {
+      "cpu": "Intel Core i7-13700H (13ª Geração) ou i7-14650HX",
+      "gpu": "RTX 4060 8 GB GDDR6 (115W-140W)",
+      "gpuVramGb": 8,
+      "gpuTgpWatts": 140,
+      "ramFactoryGb": 32,
+      "ramDetails": "32 GB DDR5 de fábrica (Expansível até 64 GB)",
+      "ramExpandable": true,
+      "ramMaxGb": 64,
+      "storage": "1 TB NVMe PCIe Gen4",
+      "storageMinGb": 1000,
+      "display": "16\" WQXGA (2560x1600), 90Hz/120Hz, 100% sRGB, 350 nits",
+      "displayResolutionClass": "QHD+ (16:10)",
+      "displayColorSpace": "100% sRGB",
+      "displayHighFidelity": true,
+      "weightKg": 1.95
+    },
+    "pricing": {
+      "minBrl": 9400,
+      "maxBrl": 9990,
+      "upgradeCostEstimateBrl": 0,
+      "minWith32GbBrl": 9400,
+      "maxWith32GbBrl": 9990,
+      "exceeds10kLimit": false,
+      "stores": ["Avell Loja Oficial"]
+    },
+    "variantWarning": "Variante sob encomenda na Avell: disponível com processador Intel Core i7-13700H (A70 ION) ou i7-14650HX (A70i), e TGP configurável entre 115W e 140W na RTX 4060.",
+    "analysis": {
+      "videoEditing": "Já sai de fábrica com 32 GB DDR5 e 1 TB de SSD sem violar o orçamento; tela 16:10 de alta resolução (2560x1600) e 100% sRGB pronta para uso profissional.",
+      "modeling3d": "Chassi com acabamento em liga de alumínio bem equilibrado termicamente para a RTX 4060; 32 GB de RAM permite carregar cenas pesadas e texturas 4K no Blender sem swap de disco.",
+      "weakness": "A taxa de atualização de 90Hz/120Hz é inferior aos 165Hz/240Hz dos concorrentes gamers (irrelevante para vídeo, mas perceptível em fluidez de viewport rápida)."
+    },
+    "profileTags": ["factory-32gb", "expandable-64gb", "high-res-screen", "lightweight", "1tb-factory"]
+  },
+  {
+    "id": "dell-inspiron-16-plus",
+    "rank": 5,
+    "name": "Dell Inspiron 16 Plus",
+    "code": "7640",
+    "badge": "Corporativo Premium · 32 GB de Fábrica",
+    "selectionReason": "Estética minimalista corporativa com Intel Core Ultra 7 (NPU para IA), leitor SD integrado, tela 2.5K 100% sRGB e 32 GB LPDDR5x de fábrica.",
+    "specs": {
+      "cpu": "Intel Core Ultra 7 155H (Meteor Lake - Série 1 c/ NPU)",
+      "gpu": "RTX 4060 8 GB GDDR6 ou RTX 4050 6 GB",
+      "gpuVramGb": 8,
+      "gpuTgpWatts": 90,
+      "ramFactoryGb": 32,
+      "ramDetails": "32 GB LPDDR5x de fábrica (Soldada)",
+      "ramExpandable": false,
+      "ramMaxGb": 32,
+      "storage": "1 TB NVMe PCIe Gen4",
+      "storageMinGb": 1000,
+      "display": "16\" 2.5K (2560x1600), 90Hz/120Hz, 100% sRGB, 300 nits",
+      "displayResolutionClass": "2.5K (16:10)",
+      "displayColorSpace": "100% sRGB",
+      "displayHighFidelity": true,
+      "weightKg": 2.20
+    },
+    "pricing": {
+      "minBrl": 9800,
+      "maxBrl": 10600,
+      "upgradeCostEstimateBrl": 0,
+      "minWith32GbBrl": 9800,
+      "maxWith32GbBrl": 10600,
+      "exceeds10kLimit": true,
+      "stores": ["Dell Brasil", "Ofertas Varejo"]
+    },
+    "variantWarning": "Atenção à variante de GPU e ao teto de preço: comercializado com RTX 4060 (8 GB) ou RTX 4050 (6 GB), e o preço pode atingir R$ 10.600 fora de promoções.",
+    "analysis": {
+      "videoEditing": "Visual minimalista corporativo/profissional, com processador Intel Core Ultra 7 de arquitetura moderna (eficiente, com NPU para recursos de IA no DaVinci/Premiere) e leitor de cartão SD integrado.",
+      "modeling3d": "Bom desempenho gráfico, mas a refrigeração é mais restrita que a de notebooks gamer dedicados, operando com temperaturas mais altas em renders longos.",
+      "weakness": "Memória RAM LPDDR5x soldada (não expansível no futuro) e preço no limite máximo do orçamento de R$ 10.000."
+    },
+    "profileTags": ["factory-32gb", "soldered-ram", "high-res-screen", "1tb-factory", "corporate-design"]
+  },
+  {
+    "id": "avell-storm-450",
+    "rank": 6,
+    "name": "Avell Storm 450 / ION A52r",
+    "code": "Storm 450 / A52r",
+    "badge": "32 GB de Fábrica Mais Acessível",
+    "selectionReason": "Entrega 32 GB DDR5 e 1 TB SSD já instalados de fábrica na faixa de R$ 7.500, com tela 100% sRGB e peso enxuto de 2,10 kg.",
+    "specs": {
+      "cpu": "AMD Ryzen 7 7735HS (Série 7000 Zen 3+)",
+      "gpu": "RTX 4050 6 GB GDDR6 (105W)",
+      "gpuVramGb": 6,
+      "gpuTgpWatts": 105,
+      "ramFactoryGb": 32,
+      "ramDetails": "32 GB DDR5 de fábrica (Expansível até 64 GB)",
+      "ramExpandable": true,
+      "ramMaxGb": 64,
+      "storage": "1 TB NVMe PCIe Gen4",
+      "storageMinGb": 1000,
+      "display": "15,6\" FHD (1920x1080), 165Hz, 100% sRGB, 300 nits",
+      "displayResolutionClass": "FHD (16:9)",
+      "displayColorSpace": "100% sRGB",
+      "displayHighFidelity": true,
+      "weightKg": 2.10
+    },
+    "pricing": {
+      "minBrl": 7200,
+      "maxBrl": 7800,
+      "upgradeCostEstimateBrl": 0,
+      "minWith32GbBrl": 7200,
+      "maxWith32GbBrl": 7800,
+      "exceeds10kLimit": false,
+      "stores": ["Avell Loja Oficial"]
+    },
+    "variantWarning": null,
+    "analysis": {
+      "videoEditing": "Excelente opção de entrada profissional que já entrega 32 GB de RAM e 1 TB de SSD de fábrica por cerca de R$ 7.500, liberando orçamento para periféricos.",
+      "modeling3d": "A RTX 4050 conta com 6 GB de VRAM (em vez de 8 GB), o que limita cenas 3D com texturas muito densas e iluminação volumétrica complexa.",
+      "weakness": "GPU menos potente que a RTX 4060 dos concorrentes e construção de chassi mais simples em polímero."
+    },
+    "profileTags": ["factory-32gb", "expandable-64gb", "budget-friendly", "1tb-factory", "100-srgb-fhd"]
+  },
+  {
+    "id": "dell-g15-5530",
+    "rank": 7,
+    "name": "Dell G15 5530",
+    "code": "i1300 / RTX 4060",
+    "badge": "Sustentação Térmica de Mesa",
+    "selectionReason": "Construção térmica herdada da linha Alienware com 4 saídas de ar para sustentar o Core i7-13650HX e a RTX 4060 (140W) por horas.",
+    "specs": {
+      "cpu": "Intel Core i7-13650HX (13ª Geração HX)",
+      "gpu": "RTX 4060 8 GB GDDR6 (140W)",
+      "gpuVramGb": 8,
+      "gpuTgpWatts": 140,
+      "ramFactoryGb": 16,
+      "ramDetails": "16 GB DDR5 (Expansível até 64 GB, 2 slots)",
+      "ramExpandable": true,
+      "ramMaxGb": 64,
+      "storage": "1 TB NVMe PCIe Gen4",
+      "storageMinGb": 1000,
+      "display": "15,6\" FHD, 165Hz, 100% sRGB, 300 nits (versão 165Hz)",
+      "displayResolutionClass": "FHD (16:9)",
+      "displayColorSpace": "100% sRGB (versão 165Hz)",
+      "displayHighFidelity": true,
+      "weightKg": 2.81
+    },
+    "pricing": {
+      "minBrl": 7600,
+      "maxBrl": 8400,
+      "upgradeCostEstimateBrl": 375,
+      "minWith32GbBrl": 7975,
+      "maxWith32GbBrl": 8775,
+      "exceeds10kLimit": false,
+      "stores": ["Dell Oficial", "KaBuM!", "Magalu"]
+    },
+    "variantWarning": "Alerta Crítico de Painel: certifique-se de adquirir exclusivamente a versão com tela de 165Hz (100% sRGB, 300 nits). Evite a versão de 120Hz, que possui apenas 45% NTSC (~60% sRGB) e é inadequada para correção de cor.",
+    "analysis": {
+      "videoEditing": "Construção térmica robusta herdada da linha Alienware, sustentando o i7 HX e a RTX 4060 em potência máxima por horas em renderizações 4K.",
+      "modeling3d": "Ótima estabilidade em render de animações no Blender graças ao dissipador generoso e fluxo de ar de quatro saídas.",
+      "weakness": "Muito pesado (2,8 kg) e fonte enorme; é necessário garantir que a versão comprada venha com a tela de 165Hz (100% sRGB), pois a versão de 120Hz tem apenas 45% NTSC/60% sRGB."
+    },
+    "profileTags": ["upgrade-friendly", "full-tgp-4060", "1tb-factory", "heavy-thermal"]
+  },
+  {
+    "id": "asus-tuf-gaming-a15",
+    "rank": 8,
+    "name": "ASUS TUF Gaming A15",
+    "code": "FA507NV",
+    "badge": "Campeão Custo-Benefício (Tela Integrada)",
+    "selectionReason": "Melhor custo-benefício para editar na tela do próprio notebook: RTX 4060 de 140W, tela 100% sRGB, Ryzen 7 eficiente e R$ 2.000+ de folga no orçamento.",
+    "specs": {
+      "cpu": "AMD Ryzen 7 7735HS (Série 7000)",
+      "gpu": "RTX 4060 8 GB GDDR6 (140W)",
+      "gpuVramGb": 8,
+      "gpuTgpWatts": 140,
+      "ramFactoryGb": 16,
+      "ramDetails": "16 GB DDR5 (Expansível até 64 GB, 2 slots)",
+      "ramExpandable": true,
+      "ramMaxGb": 64,
+      "storage": "512 GB NVMe Gen4 (slot livre)",
+      "storageMinGb": 512,
+      "display": "15,6\" FHD, 144Hz, 100% sRGB, 250-300 nits",
+      "displayResolutionClass": "FHD (16:9)",
+      "displayColorSpace": "100% sRGB",
+      "displayHighFidelity": true,
+      "weightKg": 2.20
+    },
+    "pricing": {
+      "minBrl": 6999,
+      "maxBrl": 7899,
+      "upgradeCostEstimateBrl": 375,
+      "minWith32GbBrl": 7374,
+      "maxWith32GbBrl": 8274,
+      "exceeds10kLimit": false,
+      "stores": ["KaBuM!", "Amazon BR"]
+    },
+    "variantWarning": null,
+    "analysis": {
+      "videoEditing": "Processador Ryzen 7 com ótima eficiência energética e autonomia de bateria acima da média; tela com 100% sRGB confiável para edição de cor em campo.",
+      "modeling3d": "RTX 4060 de 140W entrega desempenho pleno para aceleração de render CUDA/OptiX; construção com certificação militar MIL-STD-810H.",
+      "weakness": "Não possui Thunderbolt (usa USB-C 3.2 Gen 2 com DP/G-Sync), e a AMD não possui o Intel QuickSync para encoders legados (suprido pelo NVENC da Nvidia)."
+    },
+    "profileTags": ["upgrade-friendly", "value-champion", "full-tgp-4060", "100-srgb-fhd", "balanced-weight"]
+  },
+  {
+    "id": "acer-nitro-v15",
+    "rank": 9,
+    "name": "Acer Nitro V15",
+    "code": "ANV15-52-790M",
+    "badge": "Campeão Custo-Benefício (Monitor Externo)",
+    "selectionReason": "Notebook com RTX 4060 mais barato da pesquisa (~R$ 6.500): sobra R$ 3.500 para colocar 32 GB RAM, 2 TB SSD e um monitor 27\" 4K 100% sRGB.",
+    "specs": {
+      "cpu": "Intel Core i7-13620H (13ª Geração)",
+      "gpu": "RTX 4060 8 GB GDDR6 (75W-85W)",
+      "gpuVramGb": 8,
+      "gpuTgpWatts": 85,
+      "ramFactoryGb": 16,
+      "ramDetails": "16 GB DDR5 (Expansível até 32 GB, 2 slots)",
+      "ramExpandable": true,
+      "ramMaxGb": 32,
+      "storage": "512 GB NVMe Gen4",
+      "storageMinGb": 512,
+      "display": "15,6\" FHD IPS, 165Hz, ~65% sRGB (Painel de entrada)",
+      "displayResolutionClass": "FHD (16:9)",
+      "displayColorSpace": "~65% sRGB",
+      "displayHighFidelity": false,
+      "weightKg": 2.11
+    },
+    "pricing": {
+      "minBrl": 6499,
+      "maxBrl": 7299,
+      "upgradeCostEstimateBrl": 375,
+      "minWith32GbBrl": 6874,
+      "maxWith32GbBrl": 7674,
+      "exceeds10kLimit": false,
+      "stores": ["Mercado Livre Oficial", "Amazon BR"]
+    },
+    "variantWarning": null,
+    "analysis": {
+      "videoEditing": "Entrega RTX 4060 e i7 de 13ª geração na faixa dos R$ 6.500 a R$ 7.200, sobrando margem de orçamento suficiente para upgrade para 32 GB e até um SSD secundário de 2 TB.",
+      "modeling3d": "Excelente custo por poder de computação gráfica bruta em modelagem e render via GPU.",
+      "weakness": "A tela IPS possui apenas ~65% de cobertura sRGB e brilho modesto; exige o uso de um monitor externo calibrado para color grading profissional."
+    },
+    "profileTags": ["upgrade-friendly", "value-champion", "external-monitor-setup", "budget-friendly"]
+  },
+  {
+    "id": "apple-macbook-air-15-m3",
+    "rank": 10,
+    "name": "Apple MacBook Air 15\" M3",
+    "code": "Apple Silicon M3",
+    "badge": "Mobilidade Extrema (1,51 kg) & 15h+ Bateria",
+    "selectionReason": "Referência absoluta em portabilidade (1,51 kg), autonomia (15h+), tela Liquid Retina 100% DCI-P3 (500 nits) e aceleração nativa ProRes/HEVC.",
+    "specs": {
+      "cpu": "Apple Silicon M3 (CPU 8-core / GPU 10-core / NPU 16-core)",
+      "gpu": "GPU Apple 10-Core integrada",
+      "gpuVramGb": 16,
+      "gpuTgpWatts": 25,
+      "ramFactoryGb": 16,
+      "ramDetails": "16 GB Memória Unificada (Soldada, não expansível)",
+      "ramExpandable": false,
+      "ramMaxGb": 16,
+      "storage": "512 GB SSD integrado",
+      "storageMinGb": 512,
+      "display": "15,3\" Liquid Retina (2880x1864), 100% DCI-P3, 500 nits",
+      "displayResolutionClass": "Liquid Retina (2880x1864)",
+      "displayColorSpace": "100% DCI-P3",
+      "displayHighFidelity": true,
+      "weightKg": 1.51
+    },
+    "pricing": {
+      "minBrl": 9200,
+      "maxBrl": 9990,
+      "upgradeCostEstimateBrl": 0,
+      "minWith32GbBrl": 9200,
+      "maxWith32GbBrl": 9990,
+      "exceeds10kLimit": false,
+      "stores": ["Amazon BR", "Magalu Oficial"]
+    },
+    "variantWarning": null,
+    "analysis": {
+      "videoEditing": "Melhor eficiência energética e autonomia da indústria (15h+ longe da tomada); encoders dedicados para ProRes e HEVC no Final Cut Pro e DaVinci Resolve rodam timelines 4K/6K com fluidez impressionante.",
+      "modeling3d": "O chip M3 suporta Ray Tracing por hardware e mesh shading, mas o ecossistema Metal no Blender ainda fica atrás do ecossistema NVIDIA OptiX em tempos de render.",
+      "weakness": "Memória soldada limitada a 16 GB (as versões de 24 GB/32 GB ultrapassam R$ 13.000 no Brasil); não possui ventoinha ativa (throttle em renders 3D que duram mais de 30 minutos contínuos)."
+    },
+    "profileTags": ["soldered-ram", "high-res-screen", "lightweight", "battery-champion"]
+  }
+]

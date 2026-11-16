@@ -1,0 +1,105 @@
+{
+  "metadata": {
+    "researchDate": "Novembro de 2026",
+    "targetMarket": "Brasil (Lojas oficiais e grandes redes com garantia nacional)",
+    "budgetLimitBrl": 10000,
+    "primaryUse": "Edição de vídeo (Premiere Pro, DaVinci Resolve, Final Cut Pro; resoluções Full HD e 4K)",
+    "secondaryUse": "Modelagem e renderização 3D (Blender, Maya, SketchUp; complexidade média)"
+  },
+  "problemStatement": {
+    "headline": "O Dilema dos 32 GB de RAM até R$ 10.000 no Brasil",
+    "context": "No varejo tradicional do Brasil (Amazon BR, KaBuM!, Magazine Luiza, Mercado Livre Lojas Oficiais), a grande maioria dos notebooks de alta performance (Lenovo, Acer, Dell e ASUS) chega de fábrica configurada com 16 GB de RAM DDR5 para viabilizar preços competitivos abaixo de R$ 10.000.",
+    "whyItMatters": "Timelines 4K no Premiere Pro e DaVinci Resolve combinadas com cenas e texturas 4K no Blender saturam rapidamente 16 GB de memória, provocando swap de disco e gargalos de renderização."
+  },
+  "strategies": [
+    {
+      "id": "factory-32gb",
+      "tag": "ESTRATÉGIA 01 · CHAVE NA MÃO",
+      "title": "Configurados de Fábrica com 32 GB",
+      "subtitle": "Prontos para abrir a caixa e produzir imediatamente",
+      "description": "Destacam-se as integradoras nacionais sob encomenda (como a Avell) e linhas profissionais selecionadas (como o Dell Inspiron 16 Plus), que entregam 32 GB instalados de fábrica.",
+      "priceRange": "R$ 7.200 a R$ 10.600",
+      "highlights": [
+        "Zero necessidade de intervenção técnica ou compra de peças avulsas",
+        "Avell ION A70 e Avell Storm 450 oferecem 32 GB DDR5 expansíveis até 64 GB",
+        "Dell Inspiron 16 Plus entrega 32 GB LPDDR5x de alta velocidade em chassi corporativo"
+      ],
+      "modelsCount": 3,
+      "modelNames": [
+        "Avell ION A70 / A70i",
+        "Dell Inspiron 16 Plus",
+        "Avell Storm 450 / A52r"
+      ]
+    },
+    {
+      "id": "upgrade-strategy",
+      "tag": "ESTRATÉGIA 02 · MELHOR CUSTO-BENEFÍCIO",
+      "title": "Estratégia de Upgrade (+16 GB DDR5)",
+      "subtitle": "Chassi superior + RTX 4060 Plena mantendo a garantia oficial",
+      "description": "Adquirir modelos entre R$ 6.500 e R$ 8.900 com chassi, refrigeração, tela de alta fidelidade e GPU RTX 4060, adicionando um pente extra de 16 GB DDR5 (~R$ 300 a R$ 450, média de +R$ 800).",
+      "priceRange": "R$ 6.499 a R$ 9.240 (+ ~R$ 375 no upgrade)",
+      "warrantyPolicy": "Dell, Lenovo, Acer e Avell autorizam o upgrade de RAM e SSD sem perda de garantia de fábrica, desde que não haja dano físico durante a instalação.",
+      "highlights": [
+        "Permite alcançar 32 GB DDR5 em Dual Channel mantendo o orçamento abaixo de R$ 10.000",
+        "Acesso às melhores telas 16:10 WQXGA (Legion Slim 5) e GPUs RTX 4060 de 140W",
+        "Garantia nacional preservada oficialmente por Lenovo, Dell, Acer e Avell"
+      ],
+      "modelsCount": 6,
+      "modelNames": [
+        "Lenovo Legion Slim 5 16",
+        "Acer Predator Helios Neo 16",
+        "Lenovo LOQ 15IRX9",
+        "Dell G15 5530",
+        "ASUS TUF Gaming A15",
+        "Acer Nitro V15"
+      ]
+    }
+  ],
+  "topPicks": {
+    "podium": [
+      {
+        "place": "1º Lugar Geral",
+        "medal": "🥇",
+        "notebookId": "lenovo-legion-slim-5",
+        "name": "Lenovo Legion Slim 5 16",
+        "specsSummary": "Intel Core i7-13700H + RTX 4060 (140W)",
+        "totalWith32Gb": "R$ 8.950 (Base ~R$ 8.600 + R$ 350 RAM)",
+        "reason": "Conjunto mais completo e equilibrado para criadores. Tela 16:10 2560x1600 100% sRGB, refrigeração silenciosa e 1 TB SSD."
+      },
+      {
+        "place": "2º Lugar Geral",
+        "medal": "#02",
+        "notebookId": "avell-ion-a70",
+        "name": "Avell ION A70 ION / A70i",
+        "specsSummary": "i7-13700H / i7-14650HX + RTX 4060",
+        "totalWith32Gb": "R$ 9.400 - R$ 9.990 (32 GB de fábrica)",
+        "reason": "Melhor opção 'chave na mão' sem upgrades manuais. 32 GB DDR5 de fábrica, 1 TB SSD, tela WQXGA 16:10 100% sRGB e menos de 2 kg."
+      },
+      {
+        "place": "3º Lugar Geral",
+        "medal": "#03",
+        "notebookId": "lenovo-loq-15irx9",
+        "name": "Lenovo LOQ 15IRX9",
+        "specsSummary": "Intel Core i7-14700HX (20 núcleos) + RTX 4060",
+        "totalWith32Gb": "R$ 8.935 - R$ 9.615 (c/ upgrade +R$ 800)",
+        "reason": "Campeão de força bruta de CPU. Os 20 núcleos e 28 threads aceleram exportações no Premiere/Resolve e simulações no Blender."
+      }
+    ],
+    "valueChampions": [
+      {
+        "profile": "Edição direto na tela do notebook",
+        "notebookId": "asus-tuf-gaming-a15",
+        "name": "ASUS TUF Gaming A15 (FA507NV)",
+        "basePrice": "~R$ 7.000 - R$ 7.400",
+        "reason": "Oferece RTX 4060 com TGP de 140W e tela já com 100% sRGB. Sobram mais de R$ 2.000 no orçamento para upgrade para 32 GB e um segundo SSD de 2 TB."
+      },
+      {
+        "profile": "Edição com monitor externo profissional",
+        "notebookId": "acer-nitro-v15",
+        "name": "Acer Nitro V15 (ANV15-52-790M)",
+        "basePrice": "~R$ 6.500",
+        "reason": "Sacrifica a fidelidade da tela interna (~65% sRGB), mas com a folga de R$ 3.500 você faz upgrade para 32 GB, adiciona 2 TB de SSD e compra um monitor 27\" 4K IPS 100% sRGB (Asus ProArt ou Dell UltraSharp) abaixo dos R$ 10.000."
+      }
+    ]
+  }
+}

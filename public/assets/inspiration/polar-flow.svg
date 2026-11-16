@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 514" fill="none">
+  <rect width="1200" height="514" fill="#090909" />
+  <defs>
+    <radialGradient id="glow1" cx="50%" cy="50%" r="55%">
+      <stop offset="0%" stop-color="#3080ff" stop-opacity="0.22" />
+      <stop offset="50%" stop-color="#ffffff" stop-opacity="0.06" />
+      <stop offset="100%" stop-color="#090909" stop-opacity="0" />
+    </radialGradient>
+    <linearGradient id="beam" x1="0" y1="0" x2="1200" y2="514" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#212121" stop-opacity="0.1" />
+      <stop offset="50%" stop-color="#ffffff" stop-opacity="0.35" />
+      <stop offset="100%" stop-color="#3080ff" stop-opacity="0.1" />
+    </linearGradient>
+  </defs>
+  <ellipse cx="600" cy="257" rx="520" ry="210" fill="url(#glow1)" />
+  <g stroke="url(#beam)" stroke-width="1">
+    <path d="M-100 420 C 300 120, 750 440, 1300 90" />
+    <path d="M-100 390 C 320 150, 770 410, 1300 120" opacity="0.8" />
+    <path d="M-100 360 C 340 180, 790 380, 1300 150" opacity="0.6" />
+    <path d="M-100 330 C 360 210, 810 350, 1300 180" opacity="0.45" />
+    <path d="M-100 300 C 380 240, 830 320, 1300 210" opacity="0.3" />
+  </g>
+</svg>
